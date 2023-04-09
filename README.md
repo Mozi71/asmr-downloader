@@ -12,7 +12,7 @@ go build main.go
 之后会在项目文件夹下输出一个无后缀main文件，linux下用./命令执行,然后输入RJ号即可
 
 2、代理设置
-注意：请先确保主机能ping通下载服务器地址（raw.kiko-play-niptan.one）
+注意：请先确保主机能ping通下载服务器地址（raw.kiko-play-niptan.one），并将其域名在代理软件中设置为直连
 
 修改api/client.go代码第51行，替换为以下代码后重新编译
 ```	//HTTP代理
