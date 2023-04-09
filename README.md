@@ -26,5 +26,5 @@ go build main.go
 	resp, err := client.Do(req)
 	//resp, err := c.sendRequest(req)
 ```  
-这里的***"http://192.168.31.3:7890/"***请替换为自己的代理服务器地址
+这里的```http://192.168.31.3:7890/```请替换为自己的代理服务器地址
 
