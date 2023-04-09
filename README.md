@@ -1,6 +1,6 @@
 # ASMR-Downloader
 
-Automatically download doujin voice from [asmr.one](https://www.asmr.one/) .
+音声下载器(https://www.asmr.one/)
 
 
 1、Linux可执行文件编译
